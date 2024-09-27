@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "wdbserver_3",
+			"path": "Projects/wdbserver_3"
+		},
+		{
+			"name": "mDNS_esp01s",
+			"path": "Projects/mDNS_esp01s"
+		},
+		{
+			"name": "WifiConfig",
+			"path": "Projects/WifiConfig"
+		}
+	],
+	"settings": {}
+}
